@@ -1,2 +1,2 @@
 # egyptianpyramids
-Pyramid and Diamond shapes that were written by using loops in C.
+Pyramid and Diamond shapes written by using loops in C.
